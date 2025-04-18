@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MB (@s013mmb)
+- 👋 Hi, I’m MB
 - 👀 I’m interested in machine learning, aritificial intelligence, data science, mathematics, and coding
 
 <!---
